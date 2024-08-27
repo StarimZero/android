@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ex02</string>
+    <string name="_1st_activity">1st activity</string>
+    <string name="_2nd_activity">2nd activity</string>
+    <string name="_3rd_activity">3rd activity</string>
+</resources>
